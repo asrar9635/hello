@@ -12,7 +12,7 @@ def on_button_click():
 
 label = tk.Label(root, text="Enter your name:", font=("Arial", 12))
 label.pack()
-
+ 
 
 entry = tk.Entry(root, font=("Arial", 12))
 entry.pack(pady=5)
